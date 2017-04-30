@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=packageSel
+comment0.target=void\ setPackage(char)
+comment1.params=packageSel\ hoursUsed
+comment1.target=void\ calculate(char,\ double)
+numComments=2

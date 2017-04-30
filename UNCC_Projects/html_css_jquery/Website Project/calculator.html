@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<!-- saved from url=(0080)https://moodle2.uncc.edu/pluginfile.php/2009532/mod_resource/content/4/lab3.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>East Coast Signs - Calculator</title>
+<!-- Meta tag for keywords  -->
+    <meta name="keywords" content="Calculator" >
+    <!-- Meta tag for description  -->
+    <meta name="description" content="ITIS 2300 Lab 6" >
+	<!-- Meta tag for character encoding  -->
+    <meta charset="UTF-8">
+    <!--Embedded Stylesheet -->
+    <style type="text/css">
+    </style>
+    <link rel="stylesheet" href="Project.css">
+    <!-- JavaScript function declarations -->
+    <script type="text/javascript" src="calculator.js">
+    </script>
+</head>
+<body>
+<!-- BODY ------------------------------------------------------------------------------------------------------------------------------->    
+    
+    
+<!-- WRAPPER ------------------------------------------------------------------------------------------------------------------------------->
+<div id="wrapper"> 
+
+
+<!-- TOP ------------------------------------------------------------------------------------------------------------------------------->
+<div id="top">
+ 
+ 
+<!-- LOGO ------------------------------------------------------------------------------------------------------------------------------->
+<div id="logo"><img src="logo.png" width=410px height=260px></div>
+<!-- End LOGO ------------------------------------------------------------------------------------------------------------------------------->
+
+
+<h2>
+<img src="https://cdn4.iconfinder.com/data/icons/social-icons-6/40/phone-512.png" alt="phonelogo" width=40 height=40> (910)462-2632
+<img src="http://cebuislandtours.com/wp-content/themes/accelerate/images/Media_Viewer_Icon_-_Location.svg.png" alt="locationlogo" width=40 height=40>1659 South Main Street, Laurinburg, NC 28352</h2> 
+
+
+<!-- BODY ------------------------------------------------------------------------------------------------------------------------------->
+<body>
+
+
+<!-- DROPDOWN BUTTONS ------------------------------------------------------------------------------------------------------------------------------->
+<div class="dropdown">
+	  
+	  <button class="dropbtn">Home</button>
+	  <div class="dropdown-content">
+		<a href="index.html">Home</a>
+	  </div>
+</div>   
+<div class="dropdown">
+	  
+	  <button class="dropbtn">Services</button>
+	  <div class="dropdown-content">
+		<a href="services.html">Desgin</a>
+		<a href="#">Installation</a>
+	  </div>
+</div>
+<div class="dropdown">
+	  <button class="dropbtn">Solutions</button>
+	  <div class="dropdown-content">
+		<a href="gallery.html">Sign Types</a>
+		<a href="#">Industries</a>
+		<a href="#">Recent Projects</a>
+	  </div>
+</div>
+<div class="dropdown">
+	  <button class="dropbtn">Forms</button>
+	  <div class="dropdown-content">
+		<a href="form.html">Inquiries</a>
+        <a href="calculator.html">Calculator</a>
+	  </div>
+</div>
+<div class="dropdown">
+	  <button class="dropbtn">Our Center</button>
+	   <div class="dropdown-content">
+		 <a href="ourcenter.html">Location & Hours</a>
+	   </div>
+</div>
+</div>
+<!-- End DROPDOWN BUTTONS ------------------------------------------------------------------------------------------------------------------------------->
+
+
+<!-- HEADER IMAGE ------------------------------------------------------------------------------------------------------------------------------->
+<img src="inquiriesHeader.jpg" alt="headerimg" width=1500px>
+<!-- End HEADER IMAGE --------------------------------------------------------------------------------------------------------------------------->
+    <!-- For people who don't have JavaScript enabled-->
+    <noscript>This web page requires JavaScript to be enabled on your browser.</noscript>
+    
+    <div class="calc">
+		<h1>Pricing Calculator</h1>
+		
+ <p>A calculator for your convinence to calculate prices for the service being provided based on the price breakdowns. (To be added at a later date!)</p>
+		<!-- form for user input that represents a calculator -->
+		<form name="frmCalc" id="frmCalc">
+
+           
+           
+			<!-- Text Box to enter a numeric value -->
+			<input type="text" name="txtNumber" value="" size="20" /><br /><br/>
+			
+            <div class="container"> 
+			<!-- Number buttons -->
+			<input type="button" value="1" name="btn1" onclick="showNum(1)" />
+			<input type="button" value="2" name="btn2" onclick="showNum(2)" />
+			<input type="button" value="3" name="btn3" onclick="showNum(3)" />
+			
+			<!-- ADD: Sets up operation to add current number to next number entered -->
+			<input type="button" value="+" name="btnPlus" onclick="add()" /><br/>
+			
+			<!-- Number buttons -->
+			<input type="button" value="4" name="btn4" onclick="showNum(4)" />
+			<input type="button" value="5" name="btn5" onclick="showNum(5)" />
+			<input type="button" value="6" name="btn6" onclick="showNum(6)" />
+			
+			<!-- *** Subtract (Implement Me!) *** -->
+			<input type="button" value="-" name="btnMinus" onclick="sub()" /><br/>
+			
+			<!-- Number buttons -->
+			<input type="button" value="7" name="btn7" onclick="showNum(7)" />
+			<input type="button" value="8" name="btn8" onclick="showNum(8)" />
+			<input type="button" value="9" name="btn9" onclick="showNum(9)" />
+			
+			<!-- *** Multiply (Implement Me!) *** -->
+			<input type="button" value="*" name="btnTimes" onclick="multiply()" /><br/>
+			
+			<!-- Number buttons -->
+			<input type="button" value="0" name="btn0" onclick="showNum(0)" />
+
+			<!-- *** Power (Implement Me!) Takes two values n^y *** -->
+			<input type="button" value="^" name="btnPow" onclick="power()"/>
+			
+			<!-- *** Power2 (Implement Me!) *** Takes one value n^2-->
+			<input type="button" value="^2" name="btnPow2" onclick="squared()"/>
+			
+			<!-- *** Divide (Implement Me!) *** -->
+			<input type="button" value="/" name="btnDivide" onclick="divide()"/>
+			
+
+			
+			<br />
+			
+			<!-- Decrements value currently displayed -->
+			<input type="button" value="--" name="btnDecrement" onclick="decrement()" />
+			
+			<!-- *** Increment (Implement Me!) *** -->
+			<input type="button" value="++" name="btnIncrement" onclick="increment()"/>
+			
+			<!-- *** Square Root (Implement Me!) *** -->
+			<input type="button" value="sqrt()" name="btnSqrt" onclick="sqrt()"/><br />
+		   
+			<!-- Calculates the floor of the current number being displayed -->
+			<input type="button" value="Floor" name="btnFloor" onclick="floor()" />     
+		 
+			<!-- *** Round (Implement Me!) *** -->
+			<input type="button" value="Round" name="btnRound" onclick="round()"/>
+			
+			<!-- *** Decimal (Implement Me!) *** -->
+			<input type="button" value="." name="btnDecimal" onclick="showNum('.')" />
+			
+			<br/><br/>
+				 
+			<input type="reset" name="btnReset" value="Clear" onclick="clear()" />
+			<input type="button" name="btnCalc" value="Calculate" onclick="calculate()" />
+		
+        </form>
+    </div>
+</div>
+</div>
+	
+	<div id="Validation">
+		<a href="http://validator.w3.org/check?uri=referer">Validate HTML</a> 
+	</div>

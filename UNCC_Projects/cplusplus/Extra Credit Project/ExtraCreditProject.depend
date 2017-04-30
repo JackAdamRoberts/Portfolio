@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1449947666 source:c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1449175295 c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\stockquote.h
+	"soapH.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	"DelayedStockQuoteSoap.nsmap"
+
+1449165991 c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\soaph.h
+	"soapStub.h"
+
+1449165991 c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\soapstub.h
+	<vector>
+	"stdsoap2.h"
+
+1449165991 c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\stdsoap2.h
+	"soapdefs.h"
+	"config.h"
+	<ioctl.h>
+	<stdlib.h>
+	<sys_types.h>
+	<StdIOPalm.h>
+	<sys_socket.h>
+	"palmFunctions.h"
+	<e32def.h>
+	<sys/ioctl.h>
+	<locale.h>
+	<xlocale.h>
+	<sys\param.h>
+	<sys\socket.h>
+	<netinet\in.h>
+	<netdb.h>
+	<stdio.h>
+	<fcntl.h>
+	<string.h>
+	<stdlib.h>
+	<memory.h>
+	<errno.h>
+	<cextdecs.h(TIME,FILE_CLOSE_,AWAITIOX,DELAY,FILEINFO,FILE_GETINFO_)>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	<ntlm.h>
+	<poll.h>
+	<string>
+	<iostream>
+	<errno.h>
+	<sys/types.h>
+	<sys/timeb.h>
+	<time.h>
+	<sys/socket.h>
+	<sys/stream.h>
+	<sys/protosw.h>
+	<sys/socket.h>
+	<sockLib.h>
+	<selectLib.h>
+	<strings.h>
+	<strings.h>
+	<sys/stream.h>
+	<sys/socketvar.h>
+	<sys/times.h>
+	<sys/time.h>
+	<netinet/in.h>
+	<netinet/tcp_var.h>
+	<netinet/tcp.h>
+	<arpa/inet.h>
+	<io.h>
+	<fcntl.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<ws2spi.h>
+	<hostLib.h>
+	<ioctl.h>
+	<ioLib.h>
+	<netdb.h>
+	<netinet/in.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/select.h>
+	<fcgi_stdio.h>
+	<openssl/bio.h>
+	<openssl/err.h>
+	<openssl/rand.h>
+	<openssl/ssl.h>
+	<openssl/x509v3.h>
+	<gnutls/gnutls.h>
+	<gnutls/x509.h>
+	<gcrypt.h>
+	<zlib.h>
+	<math.h>
+	<stdint.h>
+	<bits/wordsize.h>
+	"httpLib.h"
+	<private/mathP.h>
+	<ipcom_key_db.h>
+	<float.h>
+
+1449165991 c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\delayedstockquotesoap.nsmap
+	"soapH.h"
+
+1449165991 source:c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\soapc.cpp
+	"soapH.h"
+
+1449165991 source:c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\soapclient.cpp
+	"soapH.h"
+
+1449165991 source:c:\users\jrobe\downloads\documents\school\itcs 1212\assignments\assignment 2\extracreditproject\wsstockquote\stdsoap2.cpp
+	"stdsoap2.h"
+	<pthread.h>
+	<pth.h>
+

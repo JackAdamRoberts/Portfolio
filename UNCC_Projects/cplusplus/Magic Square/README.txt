@@ -1,0 +1,1 @@
+This C++ program finds a 'magic square' (a square that is divided into smaller squares, each containing a number, such that the figures in each vertical, horizontal, and diagonal row add up to the same value) using randomly generated integers. My program was able to find the magic square in under 2 minutes at peak performance. 

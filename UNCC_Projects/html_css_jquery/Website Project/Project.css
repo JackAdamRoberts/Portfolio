@@ -1,0 +1,172 @@
+/*Every Page*/
+.dropbtn {
+    background-color: #FF0964;
+    color: white;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 296px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    max-width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #D1004D;
+}
+
+
+
+/*TEXT*/
+body {
+   color: black;
+   font: 14pt "Times New Roman", "Impact", sans-serif;
+   background: #FFFFFFF;
+   width: auto;
+   height: auto;
+}
+#wrapper{
+
+   width: 100%;
+   text-align: center;
+   background-color: #FFBBD4;
+}
+
+#main {
+text-indent: 2em;
+width: 100%;
+}
+
+h2{
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+/*______________________________________________________________________*/
+
+
+#top{
+   
+   max-width: 100%;
+   background-color: #FF84B2;
+}
+#logo{
+   
+   text-align: center;
+   
+}
+
+/*Gallery*/
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+    float: left;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+/*______________________________________________________________________*/
+
+
+
+/*Form*/
+body {
+  font: 1em sans-serif;
+}
+
+form {
+  max-width: 300px;
+  padding: 0 5px;
+}
+
+p > label {
+  display: block;
+}
+
+input[type=text],
+input[type=email],
+input[type=number],
+input[type=submit],
+textarea,
+fieldset {
+/* required to properly style form 
+   elements on WebKit based browsers */
+  -webkit-appearance: none;
+  
+  width : 100%;
+  border: 1px solid #333;
+  margin-left: 775px;
+  
+  font-family: inherit;
+  font-size: 90%;
+  
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+input:invalid {
+  box-shadow: 0 0 5px 1px red;
+}
+
+input:focus:invalid {
+  outline: none;
+}
+
+select {
+ margin-left: 775px;
+}
+
+.container{
+   display: inline-block;
+}
+
+
+/*Footer*/
+#footer {
+clear: both;
+background-color: #000000;
+}
