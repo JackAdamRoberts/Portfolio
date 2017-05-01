@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=width\ height\ nWidth\ nHeight\ nMonitors
+comment0.target=Calculator(double,\ double,\ double,\ double,\ double)
+comment0.text=\r\n\ Overloaded\ constructor\ to\ set\ the\ variables\ equal\ to\ the\ ones\ the\ user\ entered\ in\ the\ driver.\r\n\ \r\n\ @param\ width\ \ the\ width\ of\ the\ image\ in\ pixels\r\n\ @param\ height\ \ the\ height\ of\ the\ image\ in\ pixels\r\n\ @param\ nWidth\ \ the\ native\ width\ of\ the\ display\ in\ pixels\r\n\ @param\ nHeight\ the\ native\ height\ of\ the\ display\ in\ pixels\r\n\ @param\ nMonitors\ \ the\ number\ of\ monitors\ the\ user\ wishes\ to\ fill\ with\ the\ image\r\n\ \r\n
+comment1.params=
+comment1.target=void\ ratioCalc()
+comment1.text=\r\n\ Calculates\ the\ ratio\ of\ the\ wallpaper\ and\ the\ screen.\ ratioCalc()\ is\ called\ multiple\ times\ by\ the\ largestSize()\ method\ \r\n\ to\ continuously\ update\ the\ ratio\ for\ the\ conditional\ statements\ within\ largestSize().\r\n
+comment2.params=
+comment2.target=void\ largestSize()
+comment2.text=\r\n\ Calculates\ the\ largest\ area\ that\ can\ be\ cropped\ from\ the\ image\ to\ fit\ the\ display(s)\ of\ the\ user.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ the\ results\ of\ the\ calculation.\r\n\ @return\ \ \ \ \ \ the\ required\ area\ to\ fill\ the\ displays\r\n
+numComments=4
