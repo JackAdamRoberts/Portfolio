@@ -1,0 +1,16 @@
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\bin\Debug\My Text Input.exe.config
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\bin\Debug\My Text Input.exe
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\bin\Debug\My Text Input.pdb
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\bin\Debug\My Text Input.xml
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input.vbprojResolveAssemblyReference.cache
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\MainWindow.g.vb
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\Application.g.vb
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input_MarkupCompile.cache
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input_MarkupCompile.lref
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\MainWindow.baml
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input.g.resources
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My_Text_Input.Resources.resources
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input.vbproj.GenerateResource.Cache
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input.exe
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input.xml
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Text Input\My Text Input\obj\Debug\My Text Input.pdb
