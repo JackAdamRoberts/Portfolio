@@ -1,0 +1,18 @@
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\My Lucky Seven\My Lucky Seven\bin\Debug\My Lucky Seven.exe.config
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\bin\Debug\My Lucky Seven.exe
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\bin\Debug\My Lucky Seven.pdb
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\bin\Debug\My Lucky Seven.xml
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven.vbprojResolveAssemblyReference.cache
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\MainWindow.g.vb
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\Application.g.vb
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven_Content.g.vb
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven_MarkupCompile.cache
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven_MarkupCompile.lref
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\MainWindow.baml
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven.g.resources
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My_Lucky_Seven.Resources.resources
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven.vbproj.GenerateResource.Cache
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven.exe
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven.xml
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\obj\Debug\My Lucky Seven.pdb
+C:\Users\jrobe\OneDrive\Documents\Visual Studio 2015\Projects\My Lucky Seven\My Lucky Seven\bin\Debug\ArcadeRiff.wav

@@ -1,0 +1,11 @@
+c:\users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\bin\Debug\MyLuckySevenWF.exe.config
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\bin\Debug\MyLuckySevenWF.exe
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\bin\Debug\MyLuckySevenWF.pdb
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\bin\Debug\MyLuckySevenWF.xml
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\obj\Debug\MyLuckySevenWF.vbprojResolveAssemblyReference.cache
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\obj\Debug\MyLuckySevenWF.Form1.resources
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\obj\Debug\MyLuckySevenWF.Resources.resources
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\obj\Debug\MyLuckySevenWF.vbproj.GenerateResource.Cache
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\obj\Debug\MyLuckySevenWF.exe
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\obj\Debug\MyLuckySevenWF.xml
+C:\Users\jrobe\onedrive\documents\visual studio 2015\Projects\MyLuckySevenWF\MyLuckySevenWF\obj\Debug\MyLuckySevenWF.pdb
